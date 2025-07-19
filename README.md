@@ -29,3 +29,12 @@ streamlit run dashboard_app.py
 ```bash
 python report_generator.py
 ```
+## 📸 Screenshots
+
+### Dashboard View
+![Dashboard](screenshots/Screenshot%202025-07-19%20214256.png)
+
+### Data Visualization
+![Data plot](screenshots/Screenshot%202025-07-19%20214307.png)
+
+
